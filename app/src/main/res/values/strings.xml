@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab_8</string>
+    <string name="string_open">Open</string>
+    <string name="string_close">Close</string>
+</resources>
